@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creativity Hub
+title: The Creativity Hub
 date: '2019-11-18 20:01:46'
 thumbnail: /images/uploads/creativity-hub.jpg
 ---
