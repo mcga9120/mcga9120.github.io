@@ -3,5 +3,6 @@ layout: default
 title: Contact
 id: contact
 ---
+Email: mcga9120@mylaurier.ca
 
-This is my contact page!!!!
+Phone: 519-861-6471
