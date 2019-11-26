@@ -3,6 +3,7 @@ layout: default
 title: The Creativity Hub
 date: '2018-02-13 10:00:46'
 thumbnail: /images/uploads/the-creativity-hub.png
+preview: /images/uploads/the-creativity-hub-copy.png
 ---
 For our Design Thinking 1 class, we worked in a group of 4 students on a client driven project called The Creativity Hub.
 
