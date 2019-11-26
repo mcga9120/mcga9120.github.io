@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+thumbnail: /images/uploads/68870050_529565284518417_322361914317340672_n.jpg
 id: about
 ---
 Hey! I’m Aurora, a 25-year-old visual designer from Brantford. My specialties include branding solutions, product design, and UX research. I achieved an advanced diploma in Graphic Design from Sheridan College, and am currently in the second year of my BDes from Wilfird Laurier University, specializing in UX Design, with a minor in Leadership.
