@@ -11,8 +11,8 @@ From 2013 until 2016, I studied Visual and Creative Arts at Sheridan College in 
 
 The projects that mostly stood out to be as beneficial were our product design project, where my group created a brand of dark beer, and did the branding and design work from the ground up. I believe this project helped me mostly in my future branding projects, and allowed me to explore my creativity, while still adhering to the group dynamic and listening to their ideas and opinions as well. 
 
-![Ebony bottle design](/images/uploads/ebony-label-bottle.jpg)
+![Ebony bottle design](/images/uploads/ebony-label-bottle.jpg "Mockup Bottle Design")
 
 <br>
 
-This program really launched my love
+This program really launched my love for designing products for all kinds of different situations. Another project that brought about my love of design was a book project called "Passions"
