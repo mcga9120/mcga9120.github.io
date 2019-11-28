@@ -4,6 +4,10 @@ title: Sheridan College Work
 date: '2016-03-10 16:30:10'
 thumbnail: /images/uploads/mcgaugheyaurora_canvas.jpg
 preview: /images/uploads/mcgaugheyaurora_canvas.jpg
+myangle: |-
+  what I got out of sheridan
+
+  why I want to continue my education
 ---
 From 2013 until 2016, I studied Visual and Creative Arts at Sheridan College in Oakville, Ontario. Through this program, I further discovered my love for visual design. We studied subjects such as life drawing, still-life painting, and the many different path ways of graphic and web design. 
 
