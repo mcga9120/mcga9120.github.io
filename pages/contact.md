@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+thumbnail: /images/uploads/map-of-brantford.jpg
 id: contact
 ---
 <form name="contact" method="POST" data-netlify="true">
