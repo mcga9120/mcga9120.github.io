@@ -4,9 +4,11 @@ title: McGaughey Creative
 date: '2019-11-17 16:30:10'
 thumbnail: /images/uploads/yblz1993.jpg
 preview: /images/uploads/yblz1993.jpg
-myangle: |-
-  * Approach to projects
-  * Dream for company
+myangle: >-
+  When approaching my branding projects, I like to start by talking with the
+  owner about their visions for the company and find out as much information as
+  I can about how they see their business. The designs that I create need to
+  encapsulate the owners
 ---
 Through my years in this field, I have found my footing as a graphic designer and travel photographer. After my studies at Sheridan College, I lived and worked in London, England for 2 years establishing myself in the design community. After a while of publishing my designs to an online platform called RedBubble, I picked up my first couple of clients. 
 
