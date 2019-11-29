@@ -8,7 +8,16 @@ myangle: >-
   When I left Sheridan, I had a deeper understanding and appreciation for my
   love of visual design, but I wasn't entirely sure where I wanted to take it.
   From this schooling, I developed many useful skills such as a better
-  understanding of the Adobe programs
+  understanding of the Adobe programs, layout designs, and how to pitch projects
+  to clients and teams.
+
+
+  I chose to continue my education as a UX Designer because I felt like it was a
+  good next step for me, and it gave me a way to direct where I wanted to be in
+  life. I'm glad I had the opportunities that I did at Sheridan, and all of the
+  learning experiences that came along with it, but I can genuinely say with
+  complete certainty that I am doing exactly what I want to be doing in life.
+  I'm doing something that makes me happy and allows me to help others as well.
 ---
 From 2013 until 2016, I studied Visual and Creative Arts at Sheridan College in Oakville, Ontario. Through this program, I further discovered my love for visual design. We studied subjects such as life drawing, still-life painting, and the many different path ways of graphic and web design. 
 
