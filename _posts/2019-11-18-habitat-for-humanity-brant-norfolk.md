@@ -9,7 +9,12 @@ myangle: >-
   such an honor to be apart of their team. When creating the marketing
   collateral and the messaging campaigns, I wanted to encapsulate what this
   company is all about. That's what the key messaging campaign was all about.
-  Getting their positive messages and what they do out into the community.
+  Getting their positive messages and what they do out into the community. 
+
+
+  That was the angle that I took when I was creating for this organization. I
+  felt like our community needed to know and understand what they did and that's
+  what I wanted to put in my designs.
 ---
 Through the summer of 2019, I worked as a marketing assistant for Habitat for Humanity Brant-Norfolk. The summer internship involved creating marketing materials for their various different donation programs, such as their community fundraising program and their team build program. 
 
