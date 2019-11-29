@@ -8,7 +8,7 @@ myangle: >-
   When I left Sheridan, I had a deeper understanding and appreciation for my
   love of visual design, but I wasn't entirely sure where I wanted to take it.
   From this schooling, I developed many useful skills such as a better
-  understanding of the Adobe
+  understanding of the Adobe programs
 ---
 From 2013 until 2016, I studied Visual and Creative Arts at Sheridan College in Oakville, Ontario. Through this program, I further discovered my love for visual design. We studied subjects such as life drawing, still-life painting, and the many different path ways of graphic and web design. 
 
