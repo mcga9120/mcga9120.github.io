@@ -13,7 +13,9 @@ myangle: >-
 
 
   This business of mine started a little bit by accident. It wasn't my plan to
-  start my own creative, but it's worked out for the best.
+  start my own creative, but it's worked out for the best.  It has given me a
+  great creative outlet to do what I love, and being able to see my work out in
+  the world is the most amazing feeling.
 ---
 Through my years in this field, I have found my footing as a graphic designer and travel photographer. After my studies at Sheridan College, I lived and worked in London, England for 2 years establishing myself in the design community. After a while of publishing my designs to an online platform called RedBubble, I picked up my first couple of clients. 
 
